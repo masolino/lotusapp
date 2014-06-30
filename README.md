@@ -1,4 +1,4 @@
 Lotusapp
 ========
 
-A [Lotus]("https://github.com/lotus/lotus" "Lotus") example app
+A [Lotus](https://github.com/lotus/lotus) app
